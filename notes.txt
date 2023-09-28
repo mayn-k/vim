@@ -1,0 +1,2 @@
+> Try setting CAPS as ESC.
+> Try out Learn Vim extension in VSCode for practice.

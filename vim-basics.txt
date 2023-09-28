@@ -6,6 +6,7 @@ j : to move down!!
 k : to move up!!
 h : to move left!!
 l : to move right!!
+0 : to move at start of the current line
 
 // MOVE BY WORD 
 
