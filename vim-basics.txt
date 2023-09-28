@@ -1,0 +1,29 @@
+### This Text File contains information about Basic VIM Motions ###
+
+// BASIC MOVEMENTS
+
+j : to move down!!
+k : to move up!!
+h : to move left!!
+l : to move right!!
+
+// MOVE BY WORD 
+
+w : to move forwards at start of WORD
+b : to move backwards at start of WORD
+
+// TO ENTER INSERT MODE
+i : start at cursor
+a : start after cursor
+A : to the end of the current line.
+
+//  COMMAND    COUNT MOTION
+-> [d c y v]
+
+dw: deletes word forwards
+db: deletes word backwards
+dd: deletes current line
+
+
+ 
+ 
